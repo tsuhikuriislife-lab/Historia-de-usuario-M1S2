@@ -95,3 +95,6 @@ while menu_principal:
             calcularEstadisticas(opcion_estadisticas, inventario)#Calculamos las estadisticas que el usuario quiso
     else:
         print("Ingrese una opcion valida...")
+
+
+#El objetivo de esta semana, es de comprender el uso de diccionarios y listas.
